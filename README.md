@@ -12,3 +12,7 @@
 04_ai: ai 평가 문서
 
 05_task: 작업 할당 문서
+
+### 🎬 SubSlash 소개 영상
+
+- **Video:** [영상 재생하기]([여기에_업로드된_영상_URL](https://github.com/Grad-Deploy/docs/issues/1#issue-5851384781))
