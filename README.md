@@ -15,4 +15,4 @@
 
 ### 🎬 SubSlash 소개 영상
 
-- **Video:** [영상 재생하기]([https://github.com/Grad-Deploy/docs/issues/1#issue-5851384781](https://github.com/Grad-Deploy/docs/issues/2#issue-6009802206))
+- **Video:** [영상 재생하기](https://github.com/Grad-Deploy/docs/issues/2#issue-6009802206)
